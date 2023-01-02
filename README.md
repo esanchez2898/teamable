@@ -8,4 +8,5 @@ This is an application for managing employee profiles
 
     npm pack
 
+Application run on the port 3000
 
